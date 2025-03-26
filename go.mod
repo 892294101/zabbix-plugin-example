@@ -1,4 +1,4 @@
-module github.com/892294101/zabbix-plugin-oracle
+module github.com/892294101/zabbix-plugin-example
 
 go 1.23.0
 
