@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/892294101/zabbix-plugin-oracle/plugin"
+	"github.com/892294101/zabbix-plugin-example/plugin"
 	"golang.zabbix.com/sdk/plugin/flag"
 	"golang.zabbix.com/sdk/zbxerr"
 	"os"

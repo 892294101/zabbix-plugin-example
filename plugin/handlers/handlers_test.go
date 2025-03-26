@@ -26,7 +26,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/892294101/zabbix-plugin-oracle/plugin/params"
+	"github.com/892294101/zabbix-plugin-example/plugin/params"
 	"github.com/google/go-cmp/cmp"
 	"golang.zabbix.com/sdk/errs"
 )

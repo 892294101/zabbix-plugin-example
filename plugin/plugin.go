@@ -20,8 +20,8 @@ package plugin
 
 import (
 	"context"
-	"github.com/892294101/zabbix-plugin-oracle/plugin/handlers"
-	"github.com/892294101/zabbix-plugin-oracle/plugin/params"
+	"github.com/892294101/zabbix-plugin-example/plugin/handlers"
+	"github.com/892294101/zabbix-plugin-example/plugin/params"
 	"golang.zabbix.com/sdk/errs"
 	"golang.zabbix.com/sdk/metric"
 	"golang.zabbix.com/sdk/plugin"

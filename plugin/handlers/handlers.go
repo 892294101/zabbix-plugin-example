@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/892294101/zabbix-plugin-oracle/plugin/params"
+	"github.com/892294101/zabbix-plugin-example/plugin/params"
 	"golang.zabbix.com/sdk/errs"
 )
 
