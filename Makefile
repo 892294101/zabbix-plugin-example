@@ -1,6 +1,6 @@
 .ONESHELL:
 
-PACKAGE=zabbix-plugin-oracle
+PACKAGE=zabbix-plugin-example
 TOPDIR := $(CURDIR)
 
 ifeq ($(OS),Windows_NT)
